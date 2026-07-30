@@ -33,11 +33,11 @@ The project demonstrates an end-to-end analytics workflow by writing SQL queries
 ```text
 PhonePe-Transaction-Analysis/
 │
+├── dataset/
+├── image/
+├── powerbi
 ├── PhonePe.sql
-├── phonepe_project.pbix
-├── README.md
-├── Dataset/
-└── Images/
+└── README.md
 ```
 
 ---
